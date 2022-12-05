@@ -1,5 +1,5 @@
 #include <iostream>
-#include <immintrin.h>
+#include <intrin.h>
 
 
 int main() {
