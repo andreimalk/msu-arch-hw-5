@@ -1,5 +1,5 @@
 # msu-arch-hw-5
-#MSU - High Load Systems Architecture
+# MSU - High Load Systems Architecture
 
 Порядковый номер студента - 32
 
